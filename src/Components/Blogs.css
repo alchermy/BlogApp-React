@@ -1,0 +1,38 @@
+.blogs-container{
+    width: 96%;
+    max-width: 1140px;
+    margin: 0 auto ;
+    
+}
+article{
+    margin-top: 1rem;
+}
+
+.card{
+    color: #161A30;
+    padding: 20px;
+    background: #B6BBC4;
+    border-radius: 5px;  
+    transition: transform 0.4s ease;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+
+.card p{
+    margin-top: 10px;
+}
+
+hr{
+    margin-top: 1rem;
+}
+
+.search-container{
+    margin: 30px 0;
+}
+.search-input{
+    padding: 1em ;
+    width: 96%;
+    font-size: 18px;
+    outline: none;
+}

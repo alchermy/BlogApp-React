@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #F0ECE5;
+    color: #161A30;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: #31304D;
+    text-align: center;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
